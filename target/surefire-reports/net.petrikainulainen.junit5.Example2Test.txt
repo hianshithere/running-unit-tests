@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: net.petrikainulainen.junit5.Example2Test
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 23.259 s - in net.petrikainulainen.junit5.Example2Test
